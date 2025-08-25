@@ -7,11 +7,6 @@
       "name": "电影天堂资源",
       "detail": "http://caiji.dyttzyapi.com"
     },
-    "heimuer": {
-      "api": "https://json.heimuer.xyz/api.php/provide/vod",
-      "name": "黑木耳",
-      "detail": "https://heimuer.tv"
-    },
     "ruyi": {
       "api": "http://cj.rycjapi.com/api.php/provide/vod",
       "name": "如意资源"
@@ -82,9 +77,61 @@
       "api": "https://cj.lziapi.com/api.php/provide/vod",
       "name": "量子资源站"
     },
-    "xiaomaomi": {
-      "api": "https://zy.xmm.hk/api.php/provide/vod",
-      "name": "小猫咪资源"
+    "bdzy": {
+      "api": "https://api.apibdzy.com/api.php/provide/vod",
+      "name": "百度资源"
+    },
+    "fqzy": {
+      "api": "http://api.fqzy.cc/api.php/provide/vod",
+      "name": "番茄资源"
+    },
+    "uku": {
+      "api": "https://api.ukuapi.com/api.php/provide/vod",
+      "name": "优酷资源"
+    },
+    "kuaibozy": {
+      "api": "http://www.kuaibozy.com/api.php/provide/vod",
+      "name": "快播资源"
+    },
+    "iqiyi": {
+      "api": "https://iqiyizyapi.com/api.php/provide/vod",
+      "name": "爱奇艺资源"
+    },
+    "okzy": {
+      "api": "https://okzyapi.com/api.php/provide/vod",
+      "name": "OK资源"
+    },
+    "cjzy": {
+      "api": "https://cjzyapi.com/api.php/provide/vod",
+      "name": "采集资源"
+    },
+    "sdzy": {
+      "api": "https://sdzyapi.com/api.php/provide/vod",
+      "name": "闪电资源"
+    },
+    "kczy": {
+      "api": "https://kczyapi.com/api.php/provide/vod",
+      "name": "快车资源"
+    },
+    "yueai": {
+      "api": "https://yueaiapi.com/api.php/provide/vod",
+      "name": "悦爱资源"
+    },
+    "feisu": {
+      "api": "https://feisuzyapi.com/api.php/provide/vod",
+      "name": "飞速资源"
+    },
+    "guangsu": {
+      "api": "https://guangsuapi.com/api.php/provide/vod",
+      "name": "光速资源"
+    },
+    "tianma": {
+      "api": "https://tianmazyapi.com/api.php/provide/vod",
+      "name": "天马资源"
+    },
+    "qianmo": {
+      "api": "https://qianmozyapi.com/api.php/provide/vod",
+      "name": "千墨资源"
     }
   }
 }
